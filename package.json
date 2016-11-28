@@ -1,0 +1,29 @@
+{
+  "name": "jeobante",
+  "version": "1.0.0",
+  "description": "visa site",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcamon/geobante.git"
+  },
+  "keywords": [
+    "gcamon"
+  ],
+  "author": "Ede Obinna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcamon/geobante/issues"
+  },
+  "homepage": "https://github.com/gcamon/geobante#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.0",
+    "node-datetime": "^1.0.0"
+  }
+}
